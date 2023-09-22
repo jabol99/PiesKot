@@ -15,6 +15,11 @@ class MainActivity : AppCompatActivity() {
             R.drawable.pobrane
         )
 
+        findViewById<Button>(R.id.PrzyciskPies)
+        findViewById<ImageView>(R.id.Pies).setImageResource(
+            R.drawable.pobrane__1_
+        )
+
         }
     }
 }

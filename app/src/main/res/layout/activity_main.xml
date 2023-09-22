@@ -42,4 +42,16 @@
         app:layout_constraintVertical_bias="0.812"
         app:srcCompat="@drawable/pobrane" />
 
+    <ImageView
+        android:id="@+id/Pies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.514"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.812"
+        app:srcCompat="@drawable/pobrane__1_" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
